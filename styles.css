@@ -1,0 +1,246 @@
+body {
+    background-color: #1C1C1C;
+    text-align: center;
+}
+
+#main-container {
+    background-color: #1F2937;
+    width: 550px;
+    height: 550px;
+    margin: 92px auto 200px auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border: solid 1px #0EA5E9;
+    border-radius: 5px;
+}
+
+#inner-container {
+    font-family: "inter", serif;
+    color: white;
+    width: 480px;
+    text-align: left;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#divider-line {
+    height: 2px;
+    border-radius: 20px;
+    background-color: #2F3E53;
+    margin: 0px auto 10px auto;
+  }
+
+#inner-container button {
+    background-color: #0EA5E9;
+    border-radius: 6px;
+    color: white;
+    width: 191px;
+    height: 42px;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#copy-buttons button{
+    color: white;
+    background-color: transparent;
+    width: 120px;
+    height: 16px;
+    font-size: 10px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#copy-buttons {
+    height: 25px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 8px;
+}
+
+#pwd-fields {
+    
+    height: 50px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-top: 25px;
+   
+}
+.pwd-fields-both {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 235px;
+    height: 46px;
+    margin: auto 5px 10px 5px;
+    background-color: #273549;
+    color: #0EA5E9;
+    gap: 30px;
+    border-radius: 6px;
+}
+
+p {
+    margin: 0;    
+}
+
+#pwd-length-title {
+    font-size: 16px;
+    text-align: center;
+    margin: 0 auto 5px auto;
+}
+
+#radiobt-pwd-length {
+    height: 40px;
+    font-size: 14px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0;  
+}
+
+h1 {
+    font-family: "karla", serif;
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+#title-green {
+    color: #0EA5E9;
+}
+
+
+
+/* 
+
+Backup:
+
+body {
+    background-color: #1C1C1C;
+    text-align: center;
+}
+
+#main-container {
+    background-color: #1F2937;
+    width: 550px;
+    height: 550px;
+    margin: 92px auto 200px auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border-radius: 3px;
+}
+
+#inner-container {
+    font-family: "inter", serif;
+    color: white;
+    width: 480px;
+    text-align: left;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#divider-line {
+    height: 2px;
+    border-radius: 20px;
+    background-color: #2F3E53;
+    margin: 0px auto 10px auto;
+  }
+
+#inner-container button {
+    background-color: #10B981;
+    border-radius: 6px;
+    color: white;
+    width: 191px;
+    height: 42px;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#copy-buttons button{
+    color: white;
+    background-color: transparent;
+    width: 120px;
+    height: 16px;
+    font-size: 10px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#copy-buttons {
+    height: 25px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 8px;
+}
+
+#pwd-fields {
+    
+    height: 50px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-top: 25px;
+   
+}
+.pwd-fields-both {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 235px;
+    height: 46px;
+    margin: auto 5px 10px 5px;
+    background-color: #273549;
+    color: #55F991;
+    gap: 30px;
+    border-radius: 6px;
+}
+
+p {
+    margin: 0;    
+}
+
+#pwd-length-title {
+    font-size: 16px;
+    text-align: center;
+    margin: 0 auto 5px auto;
+}
+
+#radiobt-pwd-length {
+    height: 40px;
+    font-size: 14px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0;  
+}
+
+h1 {
+    font-family: "karla", serif;
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+#title-green {
+    color: #10B981;
+} */
